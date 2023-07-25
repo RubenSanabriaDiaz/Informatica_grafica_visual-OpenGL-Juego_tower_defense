@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Cañon" Collapsed="true">
+    <Position X="1" Y="1.75" Width="1.5" />
+    <InheritanceLine Type="Estructura" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="3.25" Y="1.375" />
+        <Point X="3" Y="1.454" />
+        <Point X="2.665" Y="1.454" />
+        <Point X="2.665" Y="2.096" />
+        <Point X="2.5" Y="2.096" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QACAEAAAAIAgABCBAAAAAiQCEAYgQAgBICAAQAAIBgA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\Cañon.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvEscena3D" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>REPSVKHAWIACDh3aSsIBlwMaAHRxS7AhJArthVEZKAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvEscena3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvFuenteLuz" Collapsed="true">
+    <Position X="6" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gwQCARCAACEACAAABCQAAAAAACAJAIkBACIgAAAEgEA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvFuenteLuz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvInterfaz" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iMKgBDAoIRCDBAim8rAIBNhACE4BEgKApFLBQ4DQAEQ=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvInterfaz.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Estructura" Collapsed="true">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAOBABUAEABAAAAAAQAggAAAACACACCAgABhGQtCAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\Estructura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvCamara" Collapsed="true">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQEEBiIAAAAQAAAACCQAABAAAEAAAABAAHABAAAQAgg=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvCamara.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvColor" Collapsed="true">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAABICAAAAAAAAEAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvColor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvMaterial" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAQAAEAAAAACQAAAAAAACQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvMaterial.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvPunto3D" Collapsed="true">
+    <Position X="3.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAQAAQAAAAEAEACAAAAgAAAAAAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvPunto3D.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MenuEstructuras" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAiAAAAACAAAAAAAAAAEAAAAAAUCABAQgAAAEAAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\MenuEstructuras.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="igvTextura" Collapsed="true">
+    <Position X="8.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAACAACAAAAABAAAAIAACAAAAAAAJAAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\igvTextura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TerrenoEstructuras" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAABAQAACAAABAAAAALEAIAAIIQAACAAAAghAAGcEA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\TerrenoEstructuras.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Torre" Collapsed="true">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Estructura" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="1.125" />
+        <Point X="2.875" Y="1.125" />
+        <Point X="2.875" Y="0.812" />
+        <Point X="2.5" Y="0.812" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAARAAAAAABABABAAAAAAAAQAARAAAAAAAAUAAAA=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\Torre.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemigo" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAEJAAAAEAAAAAgBAAAACgAAAAAABCgAAAAAGAFAAg=</HashCode>
+      <FileName>D:\Practicas_UJA\3er_Curso\IGV\ProyectoPracticas\ParteRubenMalo\codigoImplementado\Enemigo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
